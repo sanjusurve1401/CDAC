@@ -1,0 +1,14 @@
+/home/cdac/prashant/ClassCode/Foundations/Machine/Dotnet/AssignmentC#/obj/Debug/net8.0/BankLoan.GeneratedMSBuildEditorConfig.editorconfig
+/home/cdac/prashant/ClassCode/Foundations/Machine/Dotnet/AssignmentC#/obj/Debug/net8.0/BankLoan.AssemblyInfoInputs.cache
+/home/cdac/prashant/ClassCode/Foundations/Machine/Dotnet/AssignmentC#/obj/Debug/net8.0/BankLoan.AssemblyInfo.cs
+/home/cdac/prashant/ClassCode/Foundations/Machine/Dotnet/AssignmentC#/obj/Debug/net8.0/BankLoan.csproj.CoreCompileInputs.cache
+/home/cdac/prashant/ClassCode/Foundations/Machine/Dotnet/AssignmentC#/bin/Debug/net8.0/BankLoan
+/home/cdac/prashant/ClassCode/Foundations/Machine/Dotnet/AssignmentC#/bin/Debug/net8.0/BankLoan.deps.json
+/home/cdac/prashant/ClassCode/Foundations/Machine/Dotnet/AssignmentC#/bin/Debug/net8.0/BankLoan.runtimeconfig.json
+/home/cdac/prashant/ClassCode/Foundations/Machine/Dotnet/AssignmentC#/bin/Debug/net8.0/BankLoan.dll
+/home/cdac/prashant/ClassCode/Foundations/Machine/Dotnet/AssignmentC#/bin/Debug/net8.0/BankLoan.pdb
+/home/cdac/prashant/ClassCode/Foundations/Machine/Dotnet/AssignmentC#/obj/Debug/net8.0/BankLoan.dll
+/home/cdac/prashant/ClassCode/Foundations/Machine/Dotnet/AssignmentC#/obj/Debug/net8.0/refint/BankLoan.dll
+/home/cdac/prashant/ClassCode/Foundations/Machine/Dotnet/AssignmentC#/obj/Debug/net8.0/BankLoan.pdb
+/home/cdac/prashant/ClassCode/Foundations/Machine/Dotnet/AssignmentC#/obj/Debug/net8.0/BankLoan.genruntimeconfig.cache
+/home/cdac/prashant/ClassCode/Foundations/Machine/Dotnet/AssignmentC#/obj/Debug/net8.0/ref/BankLoan.dll
